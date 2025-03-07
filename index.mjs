@@ -53,7 +53,7 @@ function connectWebSocket() {
                             ":scheme": "https",
                             ":method": "PATCH", 
                             ":path": `${v}guilds/guildidgirXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/vanity-url`,
-                            "Authorization": "",
+                            "Authorization": "BURAYA CLAIMER TOKEN GIR",
                             "Content-Type": "application/json",
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
                             "X-Super-Properties": "eyJvcyI6IldpbmRvd3MiLCJicm93c2VyIjoiQ2hyb21lIiwiZGV2aWNlIjoiIiwic3lzdGVtX2xvY2FsZSI6InRyLVRSIiwiY2xpZW50X21vZHMiOmZhbHNlLCJicm93c2VyX3VzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTMyLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJicm93c2VyX3ZlcnNpb24iOiIxMzIuMC4wLjAiLCJvc192ZXJzaW9uIjoiMTAifQ==",
@@ -82,7 +82,7 @@ function connectWebSocket() {
                                     ":path": `/api/v9/channels/kanalidgirXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/messages`,
                                     ":authority": "canary.discord.com",
                                     ":scheme": "https",
-                                    "Authorization": "",
+                                    "Authorization": "BURAYADA LOG ATICAK KODU GIR",
                                     "Content-Type": "application/json",
                                 });
                         
