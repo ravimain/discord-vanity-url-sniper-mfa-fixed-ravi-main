@@ -82,7 +82,7 @@ function connectWebSocket() {
                                     ":path": `/api/v9/channels/kanalidgirXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/messages`,
                                     ":authority": "canary.discord.com",
                                     ":scheme": "https",
-                                    "Authorization": "BURAYADA LOG ATICAK KODU GIR",
+                                    "Authorization": "BURAYADA LOG ATICAK TOKENI GIR",
                                     "Content-Type": "application/json",
                                 });
                         
